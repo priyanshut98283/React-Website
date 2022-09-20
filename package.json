@@ -1,9 +1,9 @@
 {
+  "homepage": "https://priyanshut98283.github.io/React-Website",
   "name": "firstapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://priyanshut98283.github.io/React-Website",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
